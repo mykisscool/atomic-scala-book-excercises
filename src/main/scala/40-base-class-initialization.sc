@@ -130,8 +130,6 @@ val cities = List("Boston", "Albany", "Buffalo", "Cleveland", "Columbus", "India
 
 val c = new CarTrip(cities, "6/1/2012", "7/1/2012")
 
-
-
 c.origin is "Boston"
 c.destination is "San Francisco"
 c.startDate is "6/1/2012"
